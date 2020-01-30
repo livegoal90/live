@@ -1,4 +1,4 @@
-title: Derrick Wells – Independent Product Designer
+title: ⚽ livegoal_90
 logo:  # you can add own logo.
 description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
 baseurl: "/live" # the subpath of your site, e.g. /blog
@@ -7,25 +7,23 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: livegoal_90
   image: '/assets/img/20200114_131328_0000.png'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  job: Ricercatore di profitto
+  bio: 
+  email: livegoal90@gmail.com
 
 
 # Contact links
 contact:
-  - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
+  - name: Telegram
+    link: 
   - name: Instagram
     link: https://instagram.com/
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: lg90 # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
